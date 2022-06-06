@@ -12,5 +12,5 @@
 ## Upcoming changes:
 
 * Exit the program when there is no packages to be updated.
-	
+* Kill the dpkg locked process.	
 
